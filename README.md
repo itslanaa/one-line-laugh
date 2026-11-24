@@ -1,3 +1,7 @@
+[![make.fun · u-ronigrv-the-one-line-laugh-7ccca46f](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/itslanaa/one-line-laugh/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/itslanaa/one-line-laugh/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+
 # The One-Line Laugh
 
 One funny line, a single sentence of at most 200 characters, written by
@@ -8,3 +12,5 @@ The line: "My plant died, so I bought a fake one, and now I water it out of guil
 
 Run with Node 22: `node main.ts` (writes `/output/entry.txt`, or
 `$MAKEFUN_OUTPUT_DIR/entry.txt` when set).
+
+Referral code: `6qjs4159`
